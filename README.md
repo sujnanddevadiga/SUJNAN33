@@ -5,9 +5,6 @@
 
 - 🌱 I’m currently learning **C++,Data structures and algorithm**
 
-- 📫 How to reach me **sujnanddevadiga@outlook.com**
-
-- ⚡ Fun fact **I Qualified JEE Advance 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
